@@ -1,4 +1,5 @@
 <pre># AVAP Bot
+NOTE --> I Have removed Pythonanywhere demolink and replaced with repo becauseof a certifiacation
 Please dont think the readme is AI MADE 
 I HAVE JUST DONE SOMETHING TO LOOK AESTHHETIC
 Hey!This is AVAP Bot, a small chatbot I made for the Hack Club Stardance program.
@@ -17,7 +18,7 @@ install the required packages:
 Then start the bot:
 "python AVAPbot.py"
 Open `http://127.0.0.1:5000` in your browser.
-Live demo: https://aadistech.pythonanywhere.com/
+Live demo: https://aadistech.pythonanywhere.com/   (Still Accessible)
 .................................................
 Also type help for available commands
 .....................................
