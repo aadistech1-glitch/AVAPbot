@@ -6,6 +6,8 @@ Hey!This is AVAP Bot, a small chatbot I made for the Hack Club Stardance program
 
 It can chat with you, make you somile, answer simple questions, and talk about things like Python and Linux. It's a simple project.....
 And Also it is sad that the stardance program is ending tmrw :(
+New Updates For Pixl Programme!!!!!!
+  ..............................
 
 Made With : Python,Flask,HTML, CSS and JavaScrip
 
