@@ -1,3 +1,4 @@
+<img width="807" height="541" alt="Screenshot_2026-10-30_15-44-27" src="https://github.com/user-attachments/assets/be733810-d5c8-4991-8540-98dde857f94a" />
 <pre># AVAP Bot
 Please dont think the readme is AI MADE 
 I HAVE JUST DONE SOMETHING TO LOOK AESTHHETIC
