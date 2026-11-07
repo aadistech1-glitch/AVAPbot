@@ -23,7 +23,10 @@ Live demo: https://aadistech.pythonanywhere.com/
 Also type help for available commands
 .....................................
 Commands are mentioned below
-return "Avap Bot: Available commands are: 'hi', 'hello', 'hey', 'how are you', 'help', 'info', 'creator', 'creator-info', 'Pixl', 'Port', 'github', 'D', 'science', 'creator-hardware', 'shut up', 'are you smart', 'are you stupid', 'joke', 'tell me a joke', 'who are you', 'do you sleep', 'are you alive', 'i am bored', 'i am tired', 'thank you', 'thanks', 'good bot', 'bad bot', 'dance', 'sing', 'sudo', 'linux', 'windows', 'arch', 'debian', 'python', 'bloatware', 'rickroll', 'bye', 'exit', and 'quit'."
+'hi', 'hello', 'hey', 'how are you', 'help', 'info', 'creator', 'creator-info', 'Pixl', 'Port', 'github', 'D', 'science',
+'creator-hardware', 'shut up', 'are you smart', 'are you stupid', 'joke', 'tell me a joke',
+'who are you', 'do you sleep', 'are you alive', 'i am bored', 'i am tired', 'thank you', 
+'thanks', 'good bot', 'bad bot', 'dance', 'sing', 'sudo', 'linux', 'windows', 'arch', 'debian', 'python', 'bloatware', 'rickroll', 'bye', 'exit', and 'quit'.
 .........................................................
 
 Made With Love By AVAP for Hack Club Pixl......
