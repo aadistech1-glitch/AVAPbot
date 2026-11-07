@@ -29,6 +29,7 @@ Commands are mentioned below
 'who are you', 'do you sleep', 'are you alive', 'i am bored', 'i am tired', 'thank you', 
 'thanks', 'good bot', 'bad bot', 'dance', 'sing', 'sudo', 'linux', 'windows', 'arch', 'debian', 'python', 'bloatware', 'rickroll', 'bye', 'exit', and 'quit'.
 .........................................................
+Note --> Some commands may not be available on the web version of the bot and it is getting updated as soon as possible (It may have resolved by the time you are trying this, it is coming late due to some bugs)
 
 Made With Love By AVAP for Hack Club Pixl......
 </pre>
